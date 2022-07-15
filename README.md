@@ -21,7 +21,8 @@ Bom dia pra Estudar. </br></br>
 
 Muito top. 👍     
 
-
+> Estudar 
+Vamo que Vamo.!!
 
 
 
