@@ -9,5 +9,6 @@
    - [x] teste 2
 ---
 # O senhor é meu Pastor e nada me faltara.
-![bola](https://user-images.githubusercontent.com/94995814/179270611-16d9cd2d-3fed-4b9a-964c-709c283d0eea.png whit: 100px;)
+![foto033](https://user-images.githubusercontent.com/94995814/179270939-8cbd65bf-bf46-4b21-b12d-a118e9f68687.jpg)
+
 
