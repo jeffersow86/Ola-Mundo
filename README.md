@@ -4,4 +4,4 @@
 
  - Meu Repositório.
  
- Essa Linha foi alterado, Deixo a todos avisados do GRUPO.!!
+ - Essa Linha foi alterado, Deixo a todos avisados do GRUPO.!!
