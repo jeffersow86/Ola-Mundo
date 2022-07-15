@@ -23,6 +23,9 @@ Muito top. 👍
 
 > Estudar 
 Vamo que Vamo.!!
+</br>
+![SoExcited~GIF](https://user-images.githubusercontent.com/94995814/179278656-7e2154a9-8c87-4f99-8d79-81ebf2393231.gif)
+
 
 
 
