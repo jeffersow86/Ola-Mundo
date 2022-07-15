@@ -5,4 +5,4 @@
  - Meu Repositório.
  
  - Essa Linha foi alterado, Deixo a todos avisados do GRUPO.!!
-  - [ ] teste 1
+   - [ ] teste 1
