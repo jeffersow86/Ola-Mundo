@@ -16,6 +16,10 @@ Num | Nome | Nota
 1 | Jeff | 10.0
 1 | Manu | 10.0
 
+Bom dia pra Estudar. </br></br>
+![MuaKissGIF (2)](https://user-images.githubusercontent.com/94995814/179277034-51feeae8-5176-4a0d-bb22-be8774214c28.gif)
+
+
 
 
 
